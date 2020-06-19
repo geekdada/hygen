@@ -1,5 +1,5 @@
 {
-  "name": "hygen",
+  "name": "@royli/hygen",
   "version": "5.0.3",
   "main": "dist/index.js",
   "repository": "https://github.com/jondot/hygen",
