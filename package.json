@@ -85,5 +85,8 @@
     "boilerplate",
     "redux",
     "react"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
